@@ -2,7 +2,7 @@ import React from 'react';
 import close from '../images/icon-close.svg';
 import rules from '../images/image-rules.svg';
 
-const Modal = ({toggle}) => {
+const Modal = ({ toggle }) => {
     return (
         <div className='modal-container'>
             <div className='modal-box'>

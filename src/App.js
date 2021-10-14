@@ -1,7 +1,7 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 import './styles.scss'
 import Header from "./components/Header";
-import {Route, Switch} from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 import Play from "./components/Play";
 import Game from "./components/Game";
 import Footer from "./components/Footer";
