@@ -25,6 +25,11 @@ const Play = ({setMyChoice}) => {
 
                     </div>
                 </Link>
+                <Link to='/game'>
+                    <div data-id='rock' onClick={setChoice} className='icon icon--rock'>
+
+                    </div>
+                </Link>
             </div>
         </div>
     );
