@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-game/static/css/main.e4f16b07.chunk.css",
+    "main.js": "/react-game/static/js/main.337176f0.chunk.js",
+    "main.js.map": "/react-game/static/js/main.337176f0.chunk.js.map",
+    "runtime-main.js": "/react-game/static/js/runtime-main.05357246.js",
+    "runtime-main.js.map": "/react-game/static/js/runtime-main.05357246.js.map",
+    "static/js/2.cb3969d8.chunk.js": "/react-game/static/js/2.cb3969d8.chunk.js",
+    "static/js/2.cb3969d8.chunk.js.map": "/react-game/static/js/2.cb3969d8.chunk.js.map",
+    "index.html": "/react-game/index.html",
+    "static/css/main.e4f16b07.chunk.css.map": "/react-game/static/css/main.e4f16b07.chunk.css.map",
+    "static/js/2.cb3969d8.chunk.js.LICENSE.txt": "/react-game/static/js/2.cb3969d8.chunk.js.LICENSE.txt",
+    "static/media/bg-triangle.c0c30b56.svg": "/react-game/static/media/bg-triangle.c0c30b56.svg",
+    "static/media/icon-close.bde602ec.svg": "/react-game/static/media/icon-close.bde602ec.svg",
+    "static/media/styles.scss": "/react-game/static/media/icon-scissors.3b1a5d7e.svg",
+    "static/media/image-rules.258b753f.svg": "/react-game/static/media/image-rules.258b753f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05357246.js",
+    "static/js/2.cb3969d8.chunk.js",
+    "static/css/main.e4f16b07.chunk.css",
+    "static/js/main.337176f0.chunk.js"
+  ]
+}
